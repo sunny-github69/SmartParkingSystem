@@ -1,5 +1,5 @@
 # SmartParkingSystem
-To run this project on your local machine, you will need Apache Tomcat 9,IDE and MYSQL Workbench.
+To run this project on your local machine, you will need Apache Tomcat 9, IDE and MYSQL Workbench.
  
  Here are the steps you need to follow:
 
