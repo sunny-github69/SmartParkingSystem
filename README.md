@@ -11,7 +11,7 @@ To run this project on your local machine, you will need Apache Tomcat 9 and MYS
       
       Set up the server by following the installation instructions provided with the Apache Tomcat package.
 
-   Next, open your Eclipse IDE 
+   Next, open your Eclipse or Other IDE 
           
           👉 navigate to "Import" -> "General" -> "Existing Project from Workspace".
           👉 Choose the root directory location of the VPMS folder.
